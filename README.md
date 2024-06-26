@@ -40,3 +40,7 @@ jupyter lab
 # 컨트롤 씨 눌러서 저장
 
 gitignore.oi 들어가서 파이썬 vscode 윈도우 맥
+
+.gitignore 파일 만들어서 무시 목록 작성
+
+이후 깃으로 관리
